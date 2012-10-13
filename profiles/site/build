@@ -1,0 +1,3 @@
+#!/bin/bash
+
+drush make --no-core --contrib-destination=. mattias.make -y

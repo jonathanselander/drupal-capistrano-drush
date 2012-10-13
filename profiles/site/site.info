@@ -1,0 +1,15 @@
+name = Mattias
+description = Mattias.
+core = 7.x
+
+dependencies[] = block
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+
+dependencies[] = admin_menu
+dependencies[] = pathauto
+dependencies[] = token
