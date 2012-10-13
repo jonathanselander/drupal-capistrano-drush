@@ -1,0 +1,6 @@
+/profiles/*/libraries/*
+/profiles/*/modules/*
+
+.DS_Store
+._*
+.#*
