@@ -1,5 +1,5 @@
-name = Mattias
-description = Mattias.
+name = Example
+description = Example Profile.
 core = 7.x
 
 dependencies[] = block

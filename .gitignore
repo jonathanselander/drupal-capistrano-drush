@@ -1,5 +1,6 @@
 /profiles/*/libraries/*
 /profiles/*/modules/*
+/drush/lib/*
 
 .DS_Store
 ._*
